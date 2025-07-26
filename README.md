@@ -1,4 +1,4 @@
-# Rare Israeli Coin Detection using AI
+# Rare Coin Detection using AI
 
 ## Overview
 
