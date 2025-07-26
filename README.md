@@ -14,10 +14,10 @@ This project focuses on developing an AI-based system for detecting **rare Israe
 
 ### 🔧 Installation
 
-1. Clone the repository:
+1. Clone the repository
 2. Install the required dependencies:
 	pip install -r requirements.txt
-	
+3. Because the RF DETR model is over 100 mb , you need to download it from the releases section, just download it and put it into models folder.
 ## 🖼️ Using the GUI
 
 To use the graphical user interface (GUI), simply run:
